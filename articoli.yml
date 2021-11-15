@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: MicroservizioArticoli
+
+  datasource:
+    url: jdbc:mysql://212.131.189.19:30016/corso4
+    password: Corso4!
+    username: Andrea
+    driver-class-name: com.mysql.jdbc.Driver
+server:
+  port: 5000

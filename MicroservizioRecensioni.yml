@@ -5,6 +5,6 @@ spring:
 
   data:
     mongodb:
-      uri: mongodb+srv://Andrea_Colle:JbpdtuCSr1LBievX@cluster0.c5vsn.mongodb.net/Test
+      uri: mongodb+srv://Andrea_Colle:JbpdtuCSr1LBievX@cluster0.c5vsn.mongodb.net/Test?retryWrites=true&w=majority
 server:
   port: 5001

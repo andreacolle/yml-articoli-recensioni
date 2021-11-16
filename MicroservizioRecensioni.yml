@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: MicroservizioRecensioni
+
+
+  data:
+    mongodb:
+      uri: mongodb+srv://Andrea_Colle:JbpdtuCSr1LBievX@cluster0.c5vsn.mongodb.net/Test
+server:
+  port: 5001
